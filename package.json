@@ -1,0 +1,15 @@
+{
+  "name": "gql-login",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ian Wilson <iwilsonq@gmail.com> (http://www.thestoicdeveloper.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "connect-mongo": "^1.3.2",
+    "express": "^4.15.2",
+    "express-graphql": "^0.6.4",
+    "express-session": "^1.15.2",
+    "graphql": "^0.9.6",
+    "mongoose": "^4.9.7"
+  }
+}
